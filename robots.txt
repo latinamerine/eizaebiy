@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://seihimugho.open-self-check.org/sitemap.xml
